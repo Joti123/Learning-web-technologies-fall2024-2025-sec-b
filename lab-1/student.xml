@@ -1,0 +1,24 @@
+<students>
+    <student sr="1">
+        <sl.no> 23 </sl.no>
+        <name>john carter</name>
+        <date>25/12/15<date>
+		
+	</student>
+		
+	<student sr="1">
+        <sl.no> 29</sl.no>
+        <name>bob marshal</name>
+        <date>13/01/1999<date>
+	</student>
+	
+	 <student sr="1">
+        <sl.no> 35 </sl.no>
+        <name>clark kent</name>
+        <date>17/06/2005<date>
+		
+	</student>
+        
+    
+</students>
+

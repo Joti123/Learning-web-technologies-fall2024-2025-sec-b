@@ -1,0 +1,59 @@
+ <students>
+    <student sr="1">
+        <id> 1 </id>
+        <name>
+		    <1st_name> john</1st_name>
+			<last_name>doe</last_name>
+		</name>
+        <address>
+		<flat></flat>
+		<house>h#38</house>
+		<road>r#3</road>
+		<location>Banani</location>
+		<division>Dhaka</division>
+		</address>
+		<department> sales</department>
+		<salary>$20000</salary>
+		
+	</student>
+	
+	 <student sr="1">
+        <id> 2 </id>
+        <name>
+		    <1st_name>Mark </1st_name>
+			<last_name>zuckerberg</last_name>
+		</name>
+        <address>
+		<flat>Flat#A/1,</flat>
+		<house>h#20</house>
+		<road>r#18</road>
+		<location>mirpur</location>
+		<division>dhaka</division>
+		</address>
+		<department>Accounts </department>
+		<salary>$12000</salary>
+		
+	</student>
+	
+	 <student sr="1">
+        <id> 3 </id>
+        <name>
+		    <1st_name>Ala </1st_name>
+			<last_name>Voski</last_name>
+		</name>
+        <address>
+		<flat></flat>
+		<house>h#38</house>
+		<road>r#3</road>
+		<location>notijheel</location>
+		<division></division>
+		</address>
+		<department>Human Resources </department>
+		<salary>$30000</salary>
+		
+	</student>
+		
+	
+    
+</students>
+
